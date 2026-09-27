@@ -1,0 +1,13 @@
+prompt_prefix: |
+  クレジットをなるべく消費しないよう作業してください。
+
+prompt_suffix: |
+  内容の実装はまだしないでください。
+
+variables:
+  project_name: "Markdown Editor"
+  input: "エディタの入力の改善とダッシュボードの見やすさを最優先にする.md"
+
+permission: bypassPermissions
+continue_on_error: false
+confirm_each_task: false

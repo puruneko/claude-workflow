@@ -1,0 +1,8 @@
+directory: ~/workspace/for-mywork/__workspace
+model: haiku
+
+prompt: |
+  インプット：「.\__workspace\input\{{input}}」
+  インプットをすべて読み、要約してください。インプット以外の情報は一切読まず参照しないでください。
+  要約結果は同じフォルダのtest1.mdに出力してください。
+  要約の進捗をリアルタイムで報告してください。
