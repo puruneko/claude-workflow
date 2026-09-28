@@ -1,0 +1,7 @@
+#tasks: ./tasks_list/tasks_planning
+#tasks: ./tasks_list/tasks_planning_light
+tasks: ./tasks_list/tasks_coding
+#tasks: ./tasks_list/tasks_test_refactor
+#
+#start-task: 5
+#resume: true

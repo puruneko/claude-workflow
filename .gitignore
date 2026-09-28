@@ -10,5 +10,5 @@ wheels/
 .venv
 
 #
-tasks/
+tasks_list/
 *.log
